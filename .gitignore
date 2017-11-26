@@ -29,3 +29,6 @@
 
 # Ignore intermediate build products
 target/
+
+# Ignore Emacs backup files
+*~
